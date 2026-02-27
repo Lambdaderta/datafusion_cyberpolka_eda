@@ -5,13 +5,20 @@
   "n_features_main": 199,
   "n_features_extra": 2241,
   "targets_lt_1pct": 24,
+  "targets_lt_01pct": 3,
   "targets_lt_50": 0,
   "min_positive_count": 83,
   "target_10_1_negative_share": 1.0,
+  "target_10_1_mean_corr": -0.08487717746197276,
   "filled_extra_count_auc": 0.6520434849070065,
   "filled_extra_count_pointbiserial": 0.25090422672019835,
   "adversarial_auc_main_features": 0.5006515001775531,
   "cat_features_with_unseen_in_test": 2,
+  "max_unseen_rate_test_rows": 0.000184,
   "clear_4_target_clusters": false,
-  "significant_whale_pairs": 313
+  "k4_silhouette": 0.014809683641905255,
+  "k4_largest_cluster_share": 0.8780487804878049,
+  "significant_whale_pairs": 313,
+  "n_features_screened_linear": 519,
+  "screen_sample_rows": 89728
 }

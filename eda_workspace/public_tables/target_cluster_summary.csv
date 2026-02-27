@@ -1,0 +1,5 @@
+cluster_k4,n_targets,avg_abs_corr_inside,dominant_family,dominant_family_share,targets
+0,36,0.021249136566148068,9,0.19444444444444445,"target_10_1, target_1_1, target_1_2, target_1_3, target_1_4, target_2_2, target_2_4, target_2_5, target_2_6, target_2_7, target_3_1, target_3_2, target_3_3, target_3_4, target_3_5, target_4_1, target_5_1, target_5_2, target_6_1, target_6_2, target_6_3, target_6_4, target_6_5, target_7_1, target_7_2, target_7_3, target_8_1, target_8_2, target_8_3, target_9_1, target_9_2, target_9_3, target_9_5, target_9_6, target_9_7, target_9_8"
+2,3,0.018731741412178284,2,1.0,"target_2_1, target_2_3, target_2_8"
+1,1,,9,1.0,target_9_4
+3,1,,1,1.0,target_1_5

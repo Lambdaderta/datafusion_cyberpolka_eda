@@ -1,0 +1,17 @@
+{
+  "rows_train": 750000,
+  "rows_test": 250000,
+  "n_targets": 41,
+  "n_features_main": 199,
+  "n_features_extra": 2241,
+  "targets_lt_1pct": 24,
+  "targets_lt_50": 0,
+  "min_positive_count": 83,
+  "target_10_1_negative_share": 1.0,
+  "filled_extra_count_auc": 0.6520434849070065,
+  "filled_extra_count_pointbiserial": 0.25090422672019835,
+  "adversarial_auc_main_features": 0.5006515001775531,
+  "cat_features_with_unseen_in_test": 2,
+  "clear_4_target_clusters": false,
+  "significant_whale_pairs": 313
+}
